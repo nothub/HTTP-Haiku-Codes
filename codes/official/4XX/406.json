@@ -2,6 +2,10 @@
     "code": 406,
     "name": "Not Acceptable",
     "messages": [
-        "Why would you send this // Handholding levels of lewd // You should be ashamed"
+        [
+            "Why would you send this",
+            "Handholding levels of lewd",
+            "You should be ashamed"
+        ]
     ]
 }

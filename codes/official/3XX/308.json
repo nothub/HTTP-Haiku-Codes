@@ -2,6 +2,10 @@
     "code": 308,
     "name": "Permanent Redirect",
     "messages": [
-        "Whatever was here // I guess it's just gone for good // Not the droids you want"
+        [
+            "Whatever was here",
+            "I guess it's just gone for good",
+            "Not the droids you want"
+        ]
     ]
 }

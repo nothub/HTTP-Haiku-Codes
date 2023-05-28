@@ -2,6 +2,10 @@
     "code": 412,
     "name": "Precondition Failed",
     "messages": [
-        "This was so simple // You had one job to do // But you dropped the ball"
+        [
+            "This was so simple",
+            "You had one job to do",
+            "But you dropped the ball"
+        ]
     ]
 }

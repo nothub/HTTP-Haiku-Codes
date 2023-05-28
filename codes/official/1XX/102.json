@@ -2,6 +2,10 @@
     "code": 102,
     "name": "Processing",
     "messages": [
-        "Thank you for calling // Your call's important to us // Wait time is unknown"
+        [
+            "Thank you for calling",
+            "Your call's important to us",
+            "Wait time is unknown"
+        ]
     ]
 }

@@ -2,6 +2,10 @@
     "code": 307,
     "name": "Temporary Redirect",
     "messages": [
-        "In Angelfire days // This would have a neat banner // 'Under Construction'"
+        [
+            "In Angelfire days",
+            "This would have a neat banner",
+            "'Under Construction'"
+        ]
     ]
 }

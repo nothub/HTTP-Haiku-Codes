@@ -2,7 +2,15 @@
     "code": 400,
     "name": "Bad Request",
     "messages": [
-        "What did you send me // Did you even read the docs // RTFM dude",
-        "This is some garbage // Try that request again please // With less fail this time"
+        [
+            "What did you send me",
+            "Did you even read the docs",
+            "RTFM dude"
+        ],
+        [
+            "This is some garbage",
+            "Try that request again please",
+            "With less fail this time"
+        ]
     ]
 }

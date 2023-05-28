@@ -2,6 +2,10 @@
     "code": 502,
     "name": "Bad Gateway",
     "messages": [
-        "Network errors suck // It's probably nginx // That stuff's black magic"
+        [
+            "Network errors suck",
+            "It's probably nginx",
+            "That stuff's black magic"
+        ]
     ]
 }

@@ -2,6 +2,10 @@
     "code": 413,
     "name": "Payload Too Large",
     "messages": [
-        "That was too much data // I wasn't prepared for that // <Some innuendo>"
+        [
+            "That was too much data",
+            "I wasn't prepared for that",
+            "<Some innuendo>"
+        ]
     ]
 }
