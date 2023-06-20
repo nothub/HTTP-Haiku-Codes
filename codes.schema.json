@@ -1,0 +1,46 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://github.com/nothub/HTTP-Haiku-Codes/codes.schema.json",
+    "type": "object",
+    "required": [
+        "code",
+        "name",
+        "official",
+        "messages"
+    ],
+    "properties": {
+        "code": {
+            "type": "number",
+            "multipleOf": 1,
+            "minimum": 100,
+            "exclusiveMaximum": 600
+        },
+        "name": {
+            "type": "string",
+            "minLength": 1
+        },
+        "official": {
+            "type": "boolean"
+        },
+        "messages": {
+            "type": "array",
+            "items": {
+                "oneOf": [
+                    {
+                        "type": "array",
+                        "minContains": 0,
+                        "maxContains": 0
+                    },
+                    {
+                        "type": "array",
+                        "minContains": 3,
+                        "maxContains": 3,
+                        "items": {
+                            "type": "string"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
