@@ -21,15 +21,15 @@ for each status code
 ### what do i do
 
 See the top 9 status codes for examples:
-1. [200 OK](codes/official/200.json)
-2. [201 Created](codes/official/201.json)
-3. [204 No Content](codes/official/204.json)
-4. [400 Bad Request](codes/official/400.json)
-5. [401 Unauthorized](codes/official/401.json)
-6. [403 Forbidden](codes/official/403.json)
-7. [404 Not Found](codes/official/404.json)
-8. [409 Conflict](codes/official/409.json)
-9. [500 Internal Server Error](codes/official/500.json)
+1. [200 OK](codes/200.json)
+2. [201 Created](codes/201.json)
+3. [204 No Content](codes/204.json)
+4. [400 Bad Request](codes/400.json)
+5. [401 Unauthorized](codes/401.json)
+6. [403 Forbidden](codes/403.json)
+7. [404 Not Found](codes/404.json)
+8. [409 Conflict](codes/409.json)
+9. [500 Internal Server Error](codes/500.json)
 
 ### what's missing
 

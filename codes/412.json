@@ -1,0 +1,12 @@
+{
+    "code": 412,
+    "name": "Precondition Failed",
+    "official": true,
+    "messages": [
+        [
+            "This was so simple",
+            "You had one job to do",
+            "But you dropped the ball"
+        ]
+    ]
+}

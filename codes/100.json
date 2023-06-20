@@ -1,0 +1,12 @@
+{
+    "code": 100,
+    "name": "Continue",
+    "official": true,
+    "messages": [
+        [
+            "I got the headers",
+            "Why not send the body too",
+            "Could be fun, you know"
+        ]
+    ]
+}

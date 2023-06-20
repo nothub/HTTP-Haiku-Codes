@@ -1,0 +1,12 @@
+{
+    "code": 413,
+    "name": "Payload Too Large",
+    "official": true,
+    "messages": [
+        [
+            "That was too much data",
+            "I wasn't prepared for that",
+            "<Some innuendo>"
+        ]
+    ]
+}

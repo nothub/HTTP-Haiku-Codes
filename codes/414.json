@@ -1,0 +1,12 @@
+{
+    "code": 414,
+    "name": "URI Too Long",
+    "official": true,
+    "messages": [
+        [
+            "URI too big",
+            "Try fewer query params",
+            "Or give up I guess"
+        ]
+    ]
+}

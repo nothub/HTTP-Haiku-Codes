@@ -1,0 +1,12 @@
+{
+    "code": 409,
+    "name": "Conflict",
+    "official": true,
+    "messages": [
+        [
+            "Whatever that was",
+            "That thing already exists",
+            "Just use that one, yeah?"
+        ]
+    ]
+}

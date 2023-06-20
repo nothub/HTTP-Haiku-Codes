@@ -1,0 +1,12 @@
+{
+    "code": 206,
+    "name": "Partial Content",
+    "official": true,
+    "messages": [
+        [
+            "You could have had more",
+            "But this is all I can give",
+            "You should ask for more"
+        ]
+    ]
+}

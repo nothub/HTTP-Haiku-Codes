@@ -1,0 +1,12 @@
+{
+    "code": 102,
+    "name": "Processing",
+    "official": true,
+    "messages": [
+        [
+            "Thank you for calling",
+            "Your call's important to us",
+            "Wait time is unknown"
+        ]
+    ]
+}

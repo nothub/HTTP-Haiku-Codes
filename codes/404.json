@@ -1,0 +1,17 @@
+{
+    "code": 404,
+    "name": "Not Found",
+    "official": true,
+    "messages": [
+        [
+            "Check your URL",
+            "Whatever you put is wrong",
+            "I bet it's a slash"
+        ],
+        [
+            "You should try again",
+            "I bet it will work next time",
+            "jk lol"
+        ]
+    ]
+}
